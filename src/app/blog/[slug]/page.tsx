@@ -4,6 +4,21 @@ import { notFound } from "next/navigation";
 import "./article.css";
 import Image from "next/image";
 
+interface BlogPageParam {
+  post: string;
+}
+
+export async function generateMetadata({ params }: { params: { slug: string } }) {
+  const post = await getPostsBySlug(params.slug);
+  return {
+    title: "Crypto Blog",
+    description: post?.title,
+    openGraph: {
+      title: "Crypto Blog",
+    },
+  };
+}
+
 export function generateStaticParams() {
   const post = getPosts();
 
