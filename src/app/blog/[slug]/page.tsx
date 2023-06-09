@@ -25,9 +25,7 @@ export default async function MyBlogs({ params }: BlogPostParams) {
     <section>
       <div className="blog-container">
         <div className="title">
-          {post.image && (
-            <Image className="blog-image" src={post.image} alt="bear" width="200" height="150" placeholder="blur" />
-          )}
+          {post.image && <Image className="blog-image" src={post.image} alt="bear" width="200" height="150" />}
           <div dangerouslySetInnerHTML={{ __html: post.body.html }}></div>
           <Link href="blog">
             <button>
