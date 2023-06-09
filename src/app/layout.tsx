@@ -12,6 +12,11 @@ const poppins = Poppins({
 export const metadata = {
   title: "My Crypto Blog",
   description: "Crypto Rule Blog",
+  viewport: {
+    width: "device-width",
+    initialScale: 1,
+    maximumScale: 1,
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
