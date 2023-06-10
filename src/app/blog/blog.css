@@ -81,6 +81,10 @@
   text-align: end;
 }
 
+.arrows button:hover {
+  color: var(--btn-colour);
+}
+
 @media screen and (min-width: 480px) {
   .main-container {
     max-width: 1240px;
