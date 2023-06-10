@@ -34,6 +34,6 @@ image: /Image/shit-coin.jpg
 - Feel the vibe of the TG chat, are there only clowns talking to each other with no similar groups? RED FLAG
 
 11. Slow team or locked TG for to long.
-12. If its a reward token and they slow to setup calls or inactive in chat it's probably a tax farm
+12. If the team is slow to setup calls or inactive in chat it's probably a tax farm
 
 ## PLAY THE GAME
