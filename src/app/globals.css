@@ -1,6 +1,7 @@
 :root {
-  --primary-background: #2b6cb0;
-  --btn-colour: #f8f8f8;
+  --primary-background: #1f1f23;
+  --btn-colour: #ffd700;
+  --text-colour: #f8f8f8;
 }
 
 * {
@@ -42,7 +43,7 @@ a {
 }
 
 .heading {
-  color: #f8f8f8;
+  color: var(--text-colour);
 }
 
 h1 {
@@ -52,6 +53,7 @@ h1 {
 .text {
   font-size: 16px;
   color: #f8f8f8;
+  /* color: var(--text-colour); */
   margin-top: 10px;
   line-height: 1.5;
   font-size: larger;

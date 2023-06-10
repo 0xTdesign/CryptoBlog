@@ -1,10 +1,10 @@
 ---
-title: Rules on trading a Bear Market
+title: Rules for trading in a bear market
 date: 2023-06-08
 image: /Image/bear.jpg
 ---
 
-# Rules on trading a Bear Market
+# Rules for trading in a bear market
 
 1. Avoid buying anything with a market cap (mc) higher than 30-50k.
 

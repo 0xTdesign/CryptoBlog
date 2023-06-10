@@ -12,9 +12,7 @@ export default function page() {
         exciting adventure.
       </p>
       <Link href="/blog">
-        <button className="explore-btn">
-          <a>Explore</a>
-        </button>
+        <button className="explore-btn">Explore</button>
       </Link>
     </div>
   );

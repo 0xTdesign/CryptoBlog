@@ -57,7 +57,7 @@ export default async function BlogPage({ searchParams }: { searchParams: blogsea
                     <span className="post-title">{post.title}</span>
                     <span className="post-date">
                       <span className="published">Published: </span>
-                      {format(parseISO(post.date), "LLLL d, yyyy")}
+                      <span className="date">{format(parseISO(post.date), "LLLL d, yyyy")}</span>
                     </span>
                     <button className="read-btn">Read More</button>
                   </Link>

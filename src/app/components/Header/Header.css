@@ -7,11 +7,12 @@
   justify-content: center;
   align-items: center;
   padding: 10px;
-  background-color: #2b6cb0;
+  background-color: var(--primary-background);
 }
 
 .nav li a:hover {
-  text-decoration: underline;
+  /* text-decoration-color: #ffd700; */
+  text-decoration: underline var(--btn-colour);
 }
 
 .menu-toggle {
