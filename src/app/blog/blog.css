@@ -61,10 +61,10 @@
 }
 
 .line {
-  border: 1px solid var(--btn-colour);
+  border: 1px solid var(--btn-under);
 }
 .date {
-  color: var(--btn-colour);
+  color: var(--btn-under);
 }
 
 .arrows button {
@@ -82,7 +82,7 @@
 }
 
 .arrows button:hover {
-  color: var(--btn-colour);
+  color: var(--btn-under);
 }
 
 @media screen and (min-width: 480px) {

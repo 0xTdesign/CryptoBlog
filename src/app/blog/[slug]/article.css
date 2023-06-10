@@ -18,7 +18,7 @@
 
 .blog-container h2 {
   margin-top: 20px;
-  text-decoration: underline var(--btn-colour);
+  text-decoration: underline var(--btn-under);
 }
 
 .blog-container button {

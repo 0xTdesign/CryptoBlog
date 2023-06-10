@@ -12,7 +12,7 @@
 
 .nav li a:hover {
   /* text-decoration-color: #ffd700; */
-  text-decoration: underline var(--btn-colour);
+  text-decoration: underline var(--btn-under);
 }
 
 .menu-toggle {
