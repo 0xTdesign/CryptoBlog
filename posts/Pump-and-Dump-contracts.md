@@ -52,9 +52,7 @@ So now the question is, are all of these contracts P&D? Well, this all comes dow
 - Buybot setup but they leave the 🟢 Emoji on
 - No Buygif
 - No team
-- Chat
-
-stays locked for ages
+- Chat stays locked for ages
 
 - Once the CA has finished selling, mods and team not in chat
 - Only Eth trending paid for.
