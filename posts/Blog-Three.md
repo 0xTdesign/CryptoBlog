@@ -1,10 +1,10 @@
 ---
-title: Contracts to watch out for 📜
+title: Contracts to watch out for
 date: 2023-06-10
 image: /Image/pepe.jpg
 ---
 
-## Contracts to watch out for 📜
+## Contracts to watch out for
 
 - Never ape Proxy contracts (Meme tokens don't need a proxy contract). Only big projects need that kind of setup, depending on what they're doing. DickFuckInu is okay with a normal contract, lol.
 - Large amounts of LP at the start are a red flag.

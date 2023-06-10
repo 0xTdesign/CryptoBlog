@@ -1,10 +1,10 @@
 ---
-title: How to spot scams fast 🛑
+title: How to spot scams fast
 date: 2023-06-11
 image: /Image/pepe2.jpg
 ---
 
-# How to spot scams fast 🛑
+# How to spot scams fast
 
 1. Go on IToken or Yard Tools and click the search button. Type the name of the token you're looking at. If there are loads of similar tokens, it's likely a serial lazy rugger.
 2. Check the functions in the contract address (CA) on Yard Tools.
