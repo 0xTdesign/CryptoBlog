@@ -47,7 +47,8 @@ export default async function MyBlogs({ params }: BlogPostParams) {
             </button>
           </Link>
           <div className="views">
-            <ViewCounter />
+            {/* @ts-ignore-error Server Component */}
+            <ViewCounter kvKey={params.slug} />
           </div>
         </div>
       </div>
