@@ -61,7 +61,7 @@
 }
 
 .line {
-  border: 1px solid var(--btn-under);
+  border: 0.1px solid var(--btn-under);
 }
 .date {
   color: var(--btn-under);

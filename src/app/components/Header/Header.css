@@ -11,8 +11,7 @@
 }
 
 .nav li a:hover {
-  /* text-decoration-color: #ffd700; */
-  text-decoration: underline var(--btn-under);
+  text-decoration: 2px underline var(--btn-under);
 }
 
 .menu-toggle {
