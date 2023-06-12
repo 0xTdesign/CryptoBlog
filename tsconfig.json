@@ -30,7 +30,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    ".contentlayer/generated"
+    ".contentlayer/generated",
+    "src/app/components/Viewcounter/viewCount.js"
   ],
 
   "exclude": ["node_modules"]

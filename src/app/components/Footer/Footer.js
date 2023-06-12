@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import ViewCounter from "../Viewcounter/view";
+import ViewCounter from "../PageCount/page";
 
 export default function Footer() {
   return (
