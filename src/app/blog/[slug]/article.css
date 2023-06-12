@@ -58,6 +58,9 @@
 }
 
 @media screen and (min-width: 480px) {
+  .blog-container {
+    max-width: 1240px;
+  }
   .blog-image {
     width: 20%;
     height: 20%;
