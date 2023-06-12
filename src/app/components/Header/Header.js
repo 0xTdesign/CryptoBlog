@@ -4,6 +4,7 @@ import "./Header.css";
 import { useState } from "react";
 import Image from "next/image";
 import logo from "public/Image/logo.png";
+import Link from "next/link";
 
 export default function Header() {
   return (
@@ -15,8 +16,9 @@ export default function Header() {
         <span></span>
       </label>
       <ul className="menu">
-        <Image className="logo" src={logo} alt="logo" />
-
+        <Link href="/">
+          <Image className="logo" src={logo} alt="logo" />
+        </Link>
         <li className="menu-item">
           <a href="/">Home</a>
         </li>
