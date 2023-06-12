@@ -5,7 +5,7 @@ import ViewCounter from "../PageCount/ViewCounter";
 export default async function Footer() {
   return (
     <footer>
-      <ViewCounter />
+      {/* <ViewCounter /> */}
       <h3>&copy; My Blog </h3>
     </footer>
   );

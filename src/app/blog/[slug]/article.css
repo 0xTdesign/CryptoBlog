@@ -52,6 +52,11 @@
   color: var(--btn-colour);
 }
 
+.views {
+  margin-top: 10px;
+  font-size: 0.65rem;
+}
+
 @media screen and (min-width: 480px) {
   .blog-image {
     width: 20%;
