@@ -4,7 +4,7 @@ export default async function ViewCounter() {
   const pageViews = await kv.incr("views");
   return (
     <div>
-      <p>Viewed: {pageViews}</p>
+      <p>Viewed:{pageViews}</p>
     </div>
   );
 }
