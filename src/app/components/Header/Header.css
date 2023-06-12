@@ -12,6 +12,7 @@
 
 .nav li a:hover {
   text-decoration: 2px underline var(--btn-under);
+  text-underline-offset: 4px;
 }
 
 .menu-toggle {
@@ -54,7 +55,6 @@
 
 @media (max-width: 768px) {
   nav {
-    background-color: #2b6cb0;
     border-bottom: 2px solid #f8f8f87a;
   }
   .menu-toggle:checked ~ .menu {
